@@ -1,0 +1,4 @@
+﻿"id","mail_content_id","no","name","field_name","type","head","attention","before_attachment","after_attachment","source","size","rows","maxlength","options","auto_complete","class","separator","default_value","description","group_field","group_valid","valid","valid_ex","auto_convert","not_empty","use_field","no_send","sort","created","modified"
+"1","1","1","Name","name","text","Name","","","","","","","255","","given-name","half","","","","","","VALID_NOT_EMPTY","","","1","1","","1","2021-12-11 00:00:00","2021-12-11 00:00:00"
+"2","1","2","Email","email","email","Email","","","","","","","255","","email","half","","","","","","VALID_EMAIL","","","1","1","","2","2021-12-11 00:00:00","2021-12-11 00:00:00"
+"3","1","3","Message","message","textarea","Message","","","","","","4","9999","","none","","","","","","","VALID_NOT_EMPTY","","","1","1","","3","2021-12-11 00:00:00","2021-12-11 00:00:00"
