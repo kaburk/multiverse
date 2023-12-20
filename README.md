@@ -2,7 +2,7 @@
 
 ## 概要
 
-フォトギャラリー的な使い方ができるシンプルな baserCMS4 系で利用可能なテーマです。
+フォトギャラリー的な使い方ができるシンプルな baserCMS5 系で利用可能なテーマです。
 
 [HTML5 UP](https://html5up.net/) で公開されている HTML テンプレート
 [multiverse](https://html5up.net/multiverse) を元に、baserCMS のテーマ化しました。
@@ -12,6 +12,13 @@
 ## 利用方法
 
 通常のテーマと同様に、テーマ管理にてテーマ適用し、初期データ読込を実行してください。
+
+設置フォルダは
+{baserCMS設置フォルダ}/plugins/
+になります。
+
+また、テーマフォルダ名をThemeMultiverseにする必要があります。
+githubなどからzip形式でダウンロードして解凍した場合に multiverse-masterなどフォルダ名が ThemeMultiverse になっていない場合はリネームしてから設置して下さい。
 
 photo というブログのアイキャッチが TOP ページいっぱいに表示されます。
 

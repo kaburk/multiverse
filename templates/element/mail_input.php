@@ -44,7 +44,6 @@ if (!empty($mailFields)) {
           ])
         );
       } else {
-        echo '<div>' . $attributes['placeholder'] . '</div>';
         echo $this->BcBaser->mailFormControl(
           $field->field_name,
           array_merge($attributes, [
